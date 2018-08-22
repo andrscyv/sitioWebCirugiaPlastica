@@ -1,0 +1,21 @@
+.galeria-item{
+    height: 500px;
+}
+/* .navbar{
+    border-color:#B69B58 !important;
+    
+} */
+.carrusel-caption {
+    top: 50%;
+    left:58%;
+    right: auto;
+    bottom: auto;
+}
+
+.seccion-intro{
+    height: 400px;
+}
+
+.contenido-intro{
+    margin:30px 50px 30px 10px;
+}
