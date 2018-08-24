@@ -13,9 +13,14 @@
 }
 
 .seccion-intro{
-    height: 400px;
+    height: 500px;
+    max-width: 80%;
 }
 
 .contenido-intro{
     margin:30px 50px 30px 10px;
+}
+
+.barra-media{
+    background-color: rgb(40, 94, 131);
 }
