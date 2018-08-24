@@ -14,7 +14,7 @@
 
 .seccion-intro{
     height: 500px;
-    max-width: 80%;
+    max-width: 90%;
 }
 
 .contenido-intro{
@@ -22,5 +22,13 @@
 }
 
 .barra-media{
-    background-color: rgb(40, 94, 131);
+    background-color: rgba(26, 72, 107, 0.555);
+}
+.seccion-paquetes{
+    height: 600px;
+    max-width: 90%;
+}
+.seccion-consultorios{
+    height: 400px;
+    max-width: 90%;
 }
