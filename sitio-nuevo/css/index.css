@@ -1,5 +1,5 @@
 .galeria-item{
-    height: 500px;
+    max-height: 500px;
 }
 /* .navbar{
     border-color:#B69B58 !important;
@@ -11,10 +11,17 @@
     right: auto;
     bottom: auto;
 }
+.seccion-nav{
+    position: fixed;
+    width: 100%;
+    height: 200px;
+    z-index: 3;
+}
 
 .seccion-intro{
-    height: 500px;
+    /* height: 500px; */
     max-width: 90%;
+    padding-bottom: 20px;
 }
 
 .contenido-intro{
@@ -22,15 +29,30 @@
 }
 
 .barra-media{
-    background-color: rgba(26, 72, 107, 0.555);
+    background-color: rgb(153, 190, 211);
 }
 .seccion-paquetes{
-    height: 600px;
+    /* height: 600px; */
+    padding-bottom: 20px;
 }
 .seccion-consultorios{
-    height: 400px;
+    /* height: 400px; */
     max-width: 90%;
+    margin-bottom: 20px;
 }
 .card{
     max-width: 260px;
+}
+.seccion-footer{
+   /*  height: 300px; */
+    background-color: rgba(26, 72, 107, 0.555);
+    
+}
+.seccion-footer-horarios{
+    color: aliceblue;
+    padding: 20px;
+}
+
+*{
+    font-family:'Source Sans Pro', sans-serif;
 }
