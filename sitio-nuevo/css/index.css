@@ -26,9 +26,11 @@
 }
 .seccion-paquetes{
     height: 600px;
-    max-width: 90%;
 }
 .seccion-consultorios{
     height: 400px;
     max-width: 90%;
+}
+.card{
+    max-width: 260px;
 }

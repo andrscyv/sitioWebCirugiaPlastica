@@ -1,0 +1,10 @@
+.titulo{
+    /* background-color: cadetblue; */
+    height: 200px;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+.titulo-texto{
+    font-size: 6vw;
+}
