@@ -3,13 +3,13 @@
 .titulo{
     /* background-color: cadetblue; */
     /* height: 200px; */
-    /* padding-top: 50px;
-    padding-left: 30px; */
+    padding-top: 50px;
+    /* padding-left: 30px; */
 }
 
 .titulo-texto{
-    font-size: 40px;
-    text-align: center;
+    font-size: 60px;
+    color: rgb(59, 82, 97);
 }
 .cuerpo{
     margin-bottom: 5%;
@@ -20,13 +20,13 @@
     margin:0 0 30px 0;
 }
 .cuerpo-der{
-    padding: 0;
+    padding: 10px 20px;
     text-align: center;
 }
 .cuerpo-img{
     max-height: 600px;
-    left: 0;
-    margin: 30px auto;
+    /* left: 0;
+    margin: 30px 0; */
 }
 .cuerpo-texto-boton{
    /*  height: 200px; */
