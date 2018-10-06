@@ -43,16 +43,3 @@
 .card{
     max-width: 260px;
 }
-.seccion-footer{
-   /*  height: 300px; */
-    background-color: rgba(26, 72, 107, 0.555);
-    
-}
-.seccion-footer-horarios{
-    color: aliceblue;
-    padding: 20px;
-}
-
-*{
-    font-family:'Source Sans Pro', sans-serif;
-}
